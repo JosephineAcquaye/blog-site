@@ -12,7 +12,7 @@ const nextConfig: NextConfig = {
       
       },
       {
-    hostname: "superb-skunk-198.convex.cloud",
+    hostname: "unique-kookabura-396.convex.cloud",
     protocol: "https",
     port: "",
       }

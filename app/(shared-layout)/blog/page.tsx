@@ -35,11 +35,11 @@ export default function BlogPage() {
                     Insights, thoughts and trends from our team
                     </p>
             </div>
-       {/*<Suspense 
-       fallback={<SkeletonLoadingUi />}>*/}
+       <Suspense 
+       fallback={<SkeletonLoadingUi />}>
 
         <LoadingBlogList />
-       {/*</Suspense>*/}
+       </Suspense>
         </div>
     
     );
