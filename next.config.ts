@@ -15,7 +15,7 @@ const nextConfig: NextConfig = {
     hostname: "unique-kookabura-396.convex.cloud",
     protocol: "https",
     port: "",
-      }
+      },
     ],
 },
 };
